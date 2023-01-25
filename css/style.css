@@ -1,0 +1,31 @@
+*{
+    font-weight: bold;
+    text-align: center;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    border-radius: 15px;
+    background-color: #083B4C;
+}
+#list{
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 8px;
+}
+
+.number{
+    background-color: #1389B2;
+}
+.fizz{
+    background-color: #0CD6A1;
+}
+.buzz{
+    background-color: #FFD166;
+}
+.fizzbuzz{
+    background-color: #F0466F;
+}
