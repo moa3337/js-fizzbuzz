@@ -7,7 +7,7 @@
     height: 100px;
     line-height: 100px;
     border-radius: 15px;
-    background-color: #083B4C;
+    background-color: #1389B2;
 }
 #list{
     margin: auto;
@@ -16,10 +16,7 @@
     list-style: none;
     gap: 8px;
 }
-
-.number{
-    background-color: #1389B2;
-}
+/* colo da assegnare alle cards */
 .fizz{
     background-color: #0CD6A1;
 }
